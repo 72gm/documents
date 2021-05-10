@@ -1,0 +1,711 @@
+[
+
+    {
+
+      "applicationId": "60926e7c0f151f0e306d93e6",
+
+      "caseReferenceNumber": "bda57ab9-e8f5-4518-b750-8ee9876bc79a",
+
+      "applicationType": "type1",
+
+      "applicationSubType": "subtype2",
+
+      "dateAdded": "2021-01-25T01:17:43 -00:00",
+
+      "documents": [
+
+        {
+
+          "id": 0,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 1,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 2,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 3,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 4,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 5,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 6,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 7,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 8,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 9,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "applicationId": "60926e7c9dc5930f8747dbe9",
+
+      "caseReferenceNumber": "3489efd7-6a96-4599-a38a-952ac747b41e",
+
+      "applicationType": "type1",
+
+      "applicationSubType": "subtype2",
+
+      "dateAdded": "2018-02-03T02:26:03 -00:00",
+
+      "documents": [
+
+        {
+
+          "id": 0,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 1,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 2,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 3,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 4,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 5,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 6,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 7,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 8,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 9,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "applicationId": "60926e7ccc994f7b6eebcbb1",
+
+      "caseReferenceNumber": "cebdc0bc-5f29-4134-9596-6e090bdee40e",
+
+      "applicationType": "type3",
+
+      "applicationSubType": "subtype2",
+
+      "dateAdded": "2017-05-27T06:37:59 -01:00",
+
+      "documents": [
+
+        {
+
+          "id": 0,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 1,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 2,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 3,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 4,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 5,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 6,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 7,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 8,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 9,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "applicationId": "60926e7cda07cb7204a998cb",
+
+      "caseReferenceNumber": "2b250151-5632-4dde-8e1b-825be948da8a",
+
+      "applicationType": "type1",
+
+      "applicationSubType": "subtype3",
+
+      "dateAdded": "2017-05-03T07:55:22 -01:00",
+
+      "documents": [
+
+        {
+
+          "id": 0,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 1,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 2,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 3,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 4,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 5,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 6,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 7,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 8,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 9,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "applicationId": "60926e7c29b00f3d252e1db0",
+
+      "caseReferenceNumber": "55a802eb-c6eb-4335-b19b-1f12518edb0f",
+
+      "applicationType": "type2",
+
+      "applicationSubType": "subtype3",
+
+      "dateAdded": "2019-05-19T02:09:19 -01:00",
+
+      "documents": [
+
+        {
+
+          "id": 0,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 1,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 2,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 3,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 4,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 5,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 6,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 7,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 8,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 9,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        }
+
+      ]
+
+    },
+
+    {
+
+      "applicationId": "60926e7c628d24748a0d30dc",
+
+      "caseReferenceNumber": "85420971-e322-4c9a-8c12-04b941ad7cdf",
+
+      "applicationType": "type3",
+
+      "applicationSubType": "subtype3",
+
+      "dateAdded": "2019-08-22T04:53:50 -01:00",
+
+      "documents": [
+
+        {
+
+          "id": 0,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 1,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 2,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 3,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 4,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 5,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 6,
+
+          "filename": "document3",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 7,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 8,
+
+          "filename": "document1",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        },
+
+        {
+
+          "id": 9,
+
+          "filename": "document2",
+
+          "dateActioned": "Wed May 05 2021 11:07:56 GMT+0100 (British Summer Time)"
+
+        }
+
+      ]
+
+    }
+
+  ]
